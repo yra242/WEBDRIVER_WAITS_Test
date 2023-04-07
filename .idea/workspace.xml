@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87182731-af2c-4dd4-b6bc-fca8678ffc94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +27,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="2NhJhY7IOBhCKmIAoMjAHlFNEBC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,10 +37,31 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Вікторія/IdeaProjects/Selenium.maven"
+    "last_opened_file_path": "C:/Users/Вікторія/IdeaProjects/Selenium.maven",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "ics"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.FilteringTest.testFiltering">
+  <component name="RunManager" selected="TestNG.FilteringTest">
+    <configuration name="FilteringTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebDriver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiltering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiltering" />
+      <option name="MAIN_CLASS_NAME" value="testFiltering.FilteringTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilteringTest.testFiltering" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WebDriver" />
       <extension name="coverage">
@@ -89,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FilteringTest" />
         <item itemvalue="TestNG.FilteringTest.testFiltering" />
         <item itemvalue="TestNG.FilteringTest.testGridFilter" />
       </list>
